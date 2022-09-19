@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print(3*str)
-print(str[:10])
+print(str, end='')
+print(str, end='')
+print(str + '\n' + str[:10])
